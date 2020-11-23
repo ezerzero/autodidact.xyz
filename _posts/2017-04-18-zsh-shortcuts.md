@@ -1,10 +1,9 @@
 ---
-layout: post
-title: ZSH快捷键
-date: '2017-04-18 14:06:38'
-tags:
-- programming
+date: 2017-04-18 14:06:38 +0800
+category: programming
+permalink: /zsh-shortcuts
 ---
+# ZSH快捷键
 
 * Ctrl+A 移动光标到行首  
 * Ctrl+E 移动光标到行尾  

@@ -1,22 +1,24 @@
 ---
-layout: post
-title: Sqlite3基本操作
-date: '2017-03-04 12:00:44'
-tags:
-- programming
+date: 2017-03-04 12:00:44 +0800
+category: programming
+permalink: /ghost-email-setting
 ---
+# sqlite3基本操作
 
-####安装
+## 安装
+
 * Ubuntu：`sudo apt-get install sqlite3`  
 * CentOS：`yum install sqlite`  
 
-####数据库操作
+## 数据库操作
+
 * 创建或打开数据库：`sqlite3 DatabaseName.db`  
 * 查看数据库列表：在`sqlite3`提示符下输入`.databases`  
 * 导出数据库：`sqlite3 DatabaseName.db .dump > DatabaseName.sql`  
 * 将sql文件导入数据库：`sqlite3 DatabaseName.db < DatabaseName.sql`  
 
-####数据表操作
+## 数据表操作
+
 * 查看数据库中的所有表：`sqlite3 DatabaseName.db .tables`，或在`sqlite3`提示符下输入`.tables`  
 * 查看表结构：`.schema TableName`
 * 创建表：
@@ -42,5 +44,6 @@ VALUES (value1, value2, value3,...valueN);
 * 更新表中记录:`UPDATE TableName SET columnName=value Where [condition]`  
 * 删除表中记录：`DELETE FROM TableName Where [condition]`  
 
-####参考资料
+## 参考资料
+
 1、http://www.runoob.com/sqlite/sqlite-like-clause.html

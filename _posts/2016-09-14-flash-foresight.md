@@ -1,10 +1,9 @@
 ---
-layout: post
-title: 理解未来的7个原则
-date: '2016-09-14 13:55:09'
-tags:
-- reading
+date: 2016-09-14 13:55:09 +0800
+category: reading
+permalink: /flash-foresight
 ---
+# 理解未来的7个原则
 
 月初在京东上买书，在相关图书中看到这本书，就一起买了。这周一开始看，今天看完。
 

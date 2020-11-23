@@ -1,10 +1,9 @@
 ---
-layout: post
-title: Hebrew Groups
-date: '2016-09-16 12:44:37'
-tags:
-- faith
+date: 2016-09-16 12:44:37 +0800
+category: reading
+permalink: /flash-foresight
 ---
+# Hebrew Groups
 
 Israelites: Descendants of Israel(Jacob) ,who typically believed in Yahweh(the Lord), the God of Abraham, Issac, and Jacob.
 
@@ -17,5 +16,5 @@ Israeli: A citizen of the modern state of Israel (post 1948), which is not the s
 From: "The Lutheran Study Bible", pp1906
 
 ---
-P.S.:
+P.S.:  
 Judeans: A member of Judah's tribe, when Hebrew people was divided into tribes; or an inhabitant of Judea country when it existed as a state entity. See More:  ["Who is a Judean? Who is a "Jew"](http://www.hebrewidentity.org/en/?page_id=127)

@@ -1,10 +1,9 @@
 ---
-layout: post
-title: Redis基础知识
-date: '2017-05-02 09:53:39'
-tags:
-- programming
+date: 2017-05-02 09:53:39 +0800
+category: programming
+permalink: /redis-basic
 ---
+# Redis基础知识
 
 官网：http://redis.io  
 默认端口：`6379`  

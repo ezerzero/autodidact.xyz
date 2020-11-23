@@ -1,10 +1,9 @@
 ---
-layout: post
-title: C3 Linearization
-date: '2018-11-07 02:38:21'
-tags:
-- programming
+date: 2018-11-07 02:38:21 +0800
+category: programming
+permalink: /c3-linearization
 ---
+# C3 Linearization
 
 class B(A1,A2,A3 ...)  
 mro(B) = [B] + merge(mro(A1), mro(A2), mro(A3) ..., [A1,A2,A3])  
@@ -48,5 +47,3 @@ merge操作后的序列，继续执行merge操作，直到merge操作的序列�
            = [G,E,A,F,B,C,O]
 
 来源：[http://blog.sina.com.cn/s/blog\_45ac0d0a01018488.html](http://blog.sina.com.cn/s/blog_45ac0d0a01018488.html)
-
-<!--kg-card-end: markdown-->
