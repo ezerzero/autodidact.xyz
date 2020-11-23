@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-blockquote {
+.main-content {
+  blockquote {
     background: transparent url('../images/blockquote-gfx-2x.png') 0 8px no-repeat;
   }
+ }
