@@ -1,7 +1,7 @@
 ---
 date: 2019-08-20 12:04:05 +0800
 category: programming
-permalink: /cheng-xu-yuan-lian-ji-gong-lue-6
+permalink: /cheng-xu-yuan-lian-ji-gong-lue-7
 ---
 # 陈皓程序员练级攻略之系统知识
 
