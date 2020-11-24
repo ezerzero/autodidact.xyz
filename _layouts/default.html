@@ -4,33 +4,32 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
   </head>
 
   <body>
-    <div id="container">
-      <div class="inner">
-        <header>
-          <h1><a href="https://www.autodidact.xyz">Autodidact</a></h1>
-          <h2>"Only the autodidacts are free." ― Nassim Nicholas Taleb</h2>
-        </header>
-        <hr>
-        <section id="main_content">
-          {{ content }}
-        </section>
-        <div>
-          {% if page.date %}
-          发布时间: {{ page.date | date: "%Y-%m-%d" }}
-          {% endif %}
-        </div>
-        <footer>
-          <div>Autodidact.XYZ © 2020</div>
-        </footer>
-
-      </div>
+    <div id="header_wrap" class="outer">
+      <header class="inner">
+        <h1><a href="https://www.autodidact.xyz">Autodidact</a></h1>
+        <h2>"Only the autodidacts are free." ― Nassim Nicholas Taleb</h2>
+      </header>
+    </div>
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+    <div>
+      {% if page.date %}
+      发布时间: {{ page.date | date: "%Y-%m-%d" }}
+      {% endif %}
+    </div>
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Autodidact.XYZ © 2020</p>
+      </footer>
     </div>
   </body>
 </html>
