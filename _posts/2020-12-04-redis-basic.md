@@ -1,11 +1,28 @@
 ---
-date: 2017-05-02 09:53:39 +0800
+date: 2020-12-04 09:53:39 +0800
 category: programming
-permalink: /redis-basic
+permalink: /database-basic
 ---
-# Redis基础知识
+# 数据库基础知识
 
-官网：http://redis.io  
+## postgresql
+
+官网：[postgresql.org](https://www.postgresql.org/)  
+启动：`psql -U username -h host -p port -d dbname`  
+常用命令：  
+
+* \h Help
+* \l List databases
+* \x Expand/narrow table lists
+* \c Connect to a database
+* \dt Display tables
+* \d and \d+ Display columns (field names) of a table
+* \du Display user roles
+* \q Quit
+
+## Redis
+
+官网：[redis.io](http://redis.io)  
 默认端口：`6379`  
 启动控制台：`redis-cli`  
 常用命令：`info`、`select index`：选择数据库，index默认值为0；`keys regex`、`expire key seconds`、`expireat key timestamp`、`ttl key`、`sort`、`set key value [EX/PX]`、`get key`、`del key`、`flushdb/flushall`  
