@@ -1,5 +1,5 @@
 ---
-date: 2020-12-20 09:53:39 +0800
+date: 2020-12-16 09:53:39 +0800
 category: reading
 permalink: /the-psychology-of-money
 ---
