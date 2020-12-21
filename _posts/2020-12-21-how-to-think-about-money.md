@@ -1,0 +1,24 @@
+---
+date: 2020-12-21 20:53:39 +0800
+category: reading
+permalink: /how-to-think-about-money
+---
+
+# How to Think About Money
+
+12 suggestions for getting the most out of your money:
+
+1. We favor possessions for their lasting value, but often we get greater happiness when we spend our money on experiences. Forget the new car. Instead, travel across Europe.
+2. We should use our dollars to create special times with friends and family. Take the kids to a  sports event and your spouse to the theater. Have dinner out with friends. Fly across the country to see the grandchildren.
+3. We should design a life for ourselves where we can spend our days doing what we love. To that end, we should save every penny we can early in our adult life, so we quickly buy ourselves some financial freedom. In our 40s or 50s, we might use that freedom to switch into a career that's perhaps less lucrative, but which we may find mor fulfilling.
+4. We should worry less about dying early in retirement, and more about living longer than we ever imagined. Faced with that risk, most of us should delay Social Security to get a larger monthly check, and also consider buying longevity insurance and immediate fixed annuities that pay lifetime income.
+5. Our investment time horizon is measured not in months and years, but in decades and decades. We should strive to look beyond the market's short-term turmoil and instead aim to collect the staggering gains that can accrue to those who hold diversified stock portfolios for 30 or even 50 years. Indeed, while a long bear market can impoverish retirees who don't have enough in bonds and cash investments, it can be a great gift to young adults who are good savers, because it offers the chance to buy stocks at bargain prices.
+6. We should hold down fixed monthly costs, such as the sum we devote to mortgage or rent, cars, utilities, groceries and insurance premiums. Those low fixed costs will give us more financial breathing room, which can ease our sense of financial stress, leave us with more money for discretionary "fun" spending--and allow us to save voraciously.
+7. Good savings habits don't come naturally, so we need to make socking away money as painless as possible. That means signing up for payroll contributions to our 401(k) plan and setting up automatic investments plans, where money is pulled from our bank account each month and invested directly into the mutual funds we choose. It also means adopting easy-to-follow financial rules, such as always adding $100 to monthly mortgage check and always saving financial windfalls, including tax refunds and income from a second job.
+8. The harder we try to beat the market, the more likely we are to fail, thanks to the hefty investment costs we incur. To avoid that fate, we should stop trying to outsmart other investors and instead embrace humility--in the guise of a globally diversified portfolio of low-cost index funds.
+9. We should never forget that stocks have fundamental value. For a diversified stock portfolio, that fundamental value will change much more slowly than market prices. To keep ourselves grounded, we should focus on the dividends and earnings we buy with every dollar invested, we should have a handle on the market's likely long-run return, and we should think like shoppers, viewing market declines with the same enthusiasm that we view a sale at the local department store.
+10. Chronologically, retirement might be our life's final financial goal, but we should put it first. Retirement is the most expensive of our goals, and hence we need to save and collect investment gains for many decades to amass enough money. Retirement is also distinctly different from other goals, like buying aa home or paying for our children's college education. What's different? Retirement won't be optional for most of us and we can't expect to pay for it out of our paycheck, because at that point we won't have one.
+11. We should take a broad view of our finances--and the unifying notion should be the income from our human capital, or the lack thereof. The paychecks we collect over our lifetime are like a bond that generates 40 years of fairly steady income. That income stream can diversify a portfolio that's heavily invested in stocks, provide the savings we need to set aside for retirement, and allow us to take on debt early in our adult life and then repay it by the time we retire. We also need to protect our human capital, by ensuring we have adequate health, disability and life insurance.
+12. The goal isn't to get rich. Rather, the goal is to have enough money to lead the life we want. We shouldn't put that at risk by incurring excessive investment costs, straying too far from a global indexing strategy and failing to buy insurance against major financial risks.
+
+Jonathan Clements, "How to Think About Money", 2016, 9781523770816.
