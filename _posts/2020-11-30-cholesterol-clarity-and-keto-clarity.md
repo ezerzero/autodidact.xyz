@@ -43,7 +43,6 @@ permalink: /cholesterol-and-keto
 * 确定蛋白质阀值：每千克理想体重摄入1克蛋白质，然后减去10%；
 * 通过反复试验确定最适合自己的碳水化合物和蛋白质摄入量后，吃足够的脂肪直到饥饿消失。
 * 生酮方程式：更饱腹（Feel fuller），替代燃料（Alternative fuel），制造酮体（Triggers ketones）
-* 人体内发现的三种酮体：1、乙酰乙酸（acetoacetate, AcAc），尿中的主要酮体；2、
-β-羟基丁酸（beta-hydroxybutyrate, BHB），血液中的主要酮体；3、丙酮（acetone），呼吸中的主要酮体；
+* 人体内发现的三种酮体：1、乙酰乙酸（acetoacetate, AcAc），尿中的主要酮体；2、β-羟基丁酸（beta-hydroxybutyrate, BHB），血液中的主要酮体；3、丙酮（acetone），呼吸中的主要酮体；
 * 可使用尿酮试纸测量尿液中的乙酰乙酸，用血酮测量仪来测试血液中的血酮，用呼吸酮测量仪测量呼吸中的丙酮；
 * 戒除谷物是进入生酮状态的关键，而不是减少谷物；
