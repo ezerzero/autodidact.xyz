@@ -8,3 +8,5 @@
 * [李录谈价值投资](/li-lu-on-investment)
 * [How to Think About Money](/how-to-think-about-money)
 * [有关Basecamp](/basecamp)
+* [圣经和古兰经人名对照](/quran-bible-name)
+* [巴菲特的信](/buffett-letters)
