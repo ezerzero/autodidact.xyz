@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05 20:11:00 +0800
+date: 2021-04-21 20:11:00 +0800
 category: reading
 permalink: /buffett-letters
 ---
