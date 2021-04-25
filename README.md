@@ -10,3 +10,4 @@
 * [有关Basecamp](/basecamp)
 * [圣经和古兰经人名对照](/quran-bible-name)
 * [巴菲特的信](/buffett-letters)
+* [饮食的悖论](/the-plant-paradox)
