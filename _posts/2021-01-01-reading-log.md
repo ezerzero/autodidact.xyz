@@ -23,6 +23,8 @@ permalink: /reading-log
 * 一声叹息
 * 哀乐中年
 * 博士的爱情方程式
+* 理发师
+* 莫娣
 
 书
 
@@ -61,6 +63,8 @@ permalink: /reading-log
 * 后翼弃兵
 * 半泽直树第1季
 * 半泽直树第2季
+* This Is Us 第五季
+* 我们与恶的距离
 
 ## 2020年
 
