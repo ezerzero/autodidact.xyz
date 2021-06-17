@@ -25,6 +25,7 @@ permalink: /reading-log
 * 博士的爱情方程式
 * 理发师
 * 莫娣
+* In the heights
 
 书
 
@@ -65,6 +66,7 @@ permalink: /reading-log
 * 半泽直树第2季
 * This Is Us 第五季
 * 我们与恶的距离
+* 东京爱情故事
 
 ## 2020年
 
